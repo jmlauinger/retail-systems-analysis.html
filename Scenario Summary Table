@@ -1,5 +1,28 @@
-Scenario	 Retail RLV 	System Gain/Loss	Viable?
-Standalone Retail	 -330,666.67	0	No
-Apartment Uplift	 -330,666.67	49,726,476.19	Yes
-Catalyst	 766,933.33 	0	Yes
-Low Office Occupancy	 -1,017,600.00	0	No
+<h2>2. Scenario Summary Table</h2>
+
+<table border="1">
+<tr>
+<th>Scenario</th>
+<th>Retail RLV</th>
+<th>Viable?</th>
+</tr>
+
+<tr>
+<td>Standalone</td>
+<td>-$330,666.67</td>
+<td>No</td>
+</tr>
+
+<tr>
+<td>Apartment Uplift</td>
+<td>$766,933.33</td>
+<td>Yes at $3.50/SF</td>
+</tr>
+
+​<tr>
+<td>Low Office Occupancy</td>
+<td>-$29,760.00</td>
+<td>No at 79% occupancy</td>
+</tr>
+
+</table>
