@@ -1,0 +1,5 @@
+Scenario	 Retail RLV 	System Gain/Loss	Viable?
+Standalone Retail	 -330,666.67	0	No
+Apartment Uplift	 -330,666.67	49,726,476.19	Yes
+Catalyst	 766,933.33 	0	Yes
+Low Office Occupancy	 -1,017,600.00	0	No
